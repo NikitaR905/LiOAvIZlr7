@@ -1,0 +1,3 @@
+﻿  lr7.cpp
+C:\Users\user\Desktop\ПГУ\2 курс\ЛиОАвИЗ\lub7\lr7\lr7.cpp(296,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lr7.vcxproj -> C:\Users\user\Desktop\ПГУ\2 курс\ЛиОАвИЗ\lub7\lr7\x64\Debug\lr7.exe
